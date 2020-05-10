@@ -1,0 +1,5 @@
+https://docs.djangoproject.com/en/3.0
+
+https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django
+
+https://stackoverflow.com/

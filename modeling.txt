@@ -1,0 +1,14 @@
+MYstore
+    store
+    products
+    accounts
+        admin
+        managers
+        employee
+        reseller
+        clients
+     ecommerce
+        cart
+     finances
+        orders
+     reports
